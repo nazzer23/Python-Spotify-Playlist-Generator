@@ -1,0 +1,2 @@
+spotifyToken = ""
+spotifyUserID = ""

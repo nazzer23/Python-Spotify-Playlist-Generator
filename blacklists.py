@@ -1,0 +1,3 @@
+genreWhitelist = []
+
+artistBlacklist = []
